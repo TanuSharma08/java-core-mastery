@@ -1,4 +1,4 @@
-package basic_programs;
+package operators;
 
 // Sum of Two Numbers
 public class SumOfNumbers {
