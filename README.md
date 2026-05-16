@@ -8,7 +8,7 @@
 A structured journey to mastering Core Java concepts, fundamentals, and problem-solving.
 </p>
 
-![Java](https://img.shields.io/badge/Java-21-orange)
+!![Java](https://img.shields.io/badge/Java-8%20%7C%2017%20%7C%2021-orange)
 ![Focus](https://img.shields.io/badge/Focus-Core%20Java-blue)
 ![Status](https://img.shields.io/badge/Status-Learning-green)
 
