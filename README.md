@@ -43,28 +43,28 @@ Every topic, example, and program added here reflects active learning and contin
 
 ```text
 java-core-mastery/
-└── src/
-    ├── basics/
-    ├── operators/
-    ├── conditionals/
-    ├── loops/
-    ├── methods/
-    ├── arrays/
-    ├── strings/
-    ├── oops/
-    ├── inheritance/
-    ├── polymorphism/
-    ├── abstraction/
-    ├── encapsulation/
-    ├── interfaces/
-    ├── collections/
-    ├── exception-handling/
-    ├── file-handling/
-    ├── multithreading/
-    ├── java8-features/
-    ├── java17-features/
-    ├── java21-features/
-    └── projects/
+└── 📂 src/
+    ├── 📂 basics/
+    ├── 📂 operators/
+    ├── 📂 conditionals/
+    ├── 📂 loops/
+    ├── 📂 methods/
+    ├── 📂 arrays/
+    ├── 📂 strings/
+    ├── 📂 oops/
+    ├── 📂 inheritance/
+    ├── 📂 polymorphism/
+    ├── 📂 abstraction/
+    ├── 📂 encapsulation/
+    ├── 📂 interfaces/
+    ├── 📂 collections/
+    ├── 📂 exception-handling/
+    ├── 📂 file-handling/
+    ├── 📂 multithreading/
+    ├── 📂 java8-features/
+    ├── 📂 java17-features/
+    ├── 📂 java21-features/
+    └── 📂 projects/
 ```
 
 More topics and practice programs will continue to be added as learning progresses.
