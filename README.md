@@ -108,11 +108,11 @@ cd java-core-mastery
 ## Compile & Run
 
 ```bash
-javac src/basics/HelloWorld.java
+javac src/basics/basics.HelloWorld.java
 ```
 
 ```bash
-java src/basics/HelloWorld
+java src/basics/basics.HelloWorld
 ```
 
 ---

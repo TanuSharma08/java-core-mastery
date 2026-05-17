@@ -1,4 +1,4 @@
-package if_else;
+package conditionals;
 
 // Check whether the number is even or odd
 public class EvenOdd {
