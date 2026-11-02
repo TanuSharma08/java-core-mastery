@@ -1,7 +1,7 @@
 package collections;
 import java.util.ArrayList;
 
-public class ArrL {
+public class ArrStr {
     public static void main(String[] args) {
         ArrayList<String> names = new ArrayList<>();
 
@@ -19,6 +19,7 @@ public class ArrL {
         names.set(1, "Mango"); // replace element using index
         System.out.println(names); // print list
         System.out.println(names.size()); // print size
+        System.out.println(names.indexOf("Mango"));
         System.out.println(names.contains("Apple")); // check if element exists
         names.remove(0); // remove element at index 0
         System.out.println(names); // print list
